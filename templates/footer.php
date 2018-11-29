@@ -5,7 +5,7 @@
             <a href="#" class="fb"></a>
             <a href="#" class="inst"></a>
         </div>
-        <a href="#main" class="footer-main"></a> 
+        <a href="index.php#main" class="footer-main"></a> 
         <div class="footer-info">
             <p>
                 Программа лояльности<br>
@@ -20,9 +20,9 @@
 </div>
 </div>
 
-<script src="../jquery-3.3.1.js"></script>
-<script src="../slider.js"></script>
-<script src="../main.js"></script>
+<script src="jquery-3.3.1.js"></script>
+<script src="slider.js"></script>
+<script src="main.js"></script>
 
 </body>
 </html>
